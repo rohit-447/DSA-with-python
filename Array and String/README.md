@@ -18,14 +18,13 @@ Given an array, determine the minimum and maximum values contained within it.
    - **Complexity:** O(n log n) due to sorting.
 
 2. **Method 2: Sorting Using Nested Loops**
-    **Description:** This method sorts the array using a bubble sort approach and retrieves the first and last elements as the minimum and maximum.
-    **Complexity:** O(n²) due to nested loops.
+    - **Description:** This method sorts the array using a bubble sort approach and retrieves the first and last elements as the minimum and maximum.
+    - **Complexity:** O(n²) due to nested loops.
 
 3. **Method 3: Direct Min and Max Retrieval**
-    **Description:** This method uses Python's built-in min() and max() functions to find the minimum and maximum values directly.
-    **Complexity:** O(n) as it traverses the array once.
+    - **Description:** This method uses Python's built-in min() and max() functions to find the minimum and maximum values directly.
+    - **Complexity:** O(n) as it traverses the array once.
 
 4. **Method 4: Using Built-in Sort Function**
-
-    **Description:** This method sorts the array in place using the built-in sort function and retrieves the minimum and maximum values.
-    **Complexity:** O(n log n) due to sorting.
+    - **Description:** This method sorts the array in place using the built-in sort function and retrieves the minimum and maximum values.
+    - **Complexity:** O(n log n) due to sorting.
