@@ -28,3 +28,7 @@ Given an array, determine the minimum and maximum values contained within it.
 4. **Method 4: Using Built-in Sort Function**
     - **Description:** This method sorts the array in place using the built-in sort function and retrieves the minimum and maximum values.
     - **Complexity:** O(n log n) due to sorting.
+5. **Method 5: Comparative Approach**
+    - **Description:** This method iterates through the array, comparing each element to find the minimum and maximum values.
+    - **Complexity:** O(n) since it goes through the array once.
+python
